@@ -63,3 +63,7 @@ o	Automatically create progress reports for development projects, community data
 7.	Custom Dashboards:
 o	You can schedule this script to run weekly or monthly to create updated reports without manual effort.
 This task represents an important automation use case where data visualization, text formatting, and report documentation are combined into one seamless workflow — reducing human effort, improving accuracy, and ensuring consistency.
+
+output
+
+[enhanced_report.pdf](https://github.com/user-attachments/files/21434443/enhanced_report.pdf)
